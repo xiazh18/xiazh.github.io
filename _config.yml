@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xia Zihan"
-  avatar           : "profile.png"
+  avatar           : "../images/xiazh.jpg"
   bio              : "Follow your heart!"
   location         : "HeFei"
   employer         :
