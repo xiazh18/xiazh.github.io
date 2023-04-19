@@ -10,4 +10,4 @@ redirect_from:
 
 A master student from USTC, research on the development of artificial intelligence atmospheric numerical prediction model.
 
-[Email](mailto:xiazh@mail.ustc.edu.cn) / [Github](https://github.com/xiazh18) 
+Talk to me: xiazh@mail.ustc.edu.cn
