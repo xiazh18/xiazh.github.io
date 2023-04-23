@@ -5,7 +5,7 @@ permalink: /publication/2023-1-28-Global warming has increased the distance trav
 excerpt: ' '
 date: 2023-1-28
 venue: 'Geophysical Research Letters'
-citation: 'He, Y., Zhang, B., Xia, Z., Wang, S., & Guan, X. (2023). Global warming has increased the distance traveled by marine heatwaves. Geophysical Research Letters, 50, e2022GL102032. https://doi.org/10.1029/2022GL102032'
+citation: 'He, Y., Zhang, B., Xia, Z., Wang, S., & Guan, X. (2023). Global warming has increased the distance traveled by marine heatwaves. Geophysical Research Letters, 50, e2022GL102032.'
 ---
 **Abstract:**
 
