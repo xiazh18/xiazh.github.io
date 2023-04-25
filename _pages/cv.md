@@ -61,4 +61,4 @@ Teaching
 
 Service and leadership
 ======
-* At present, I operate a WeChat public account, mainly sharing meteorological programming technology and information, with 3,000 fans
+* At present, I operate a WeChat public account(called 自学气象人), mainly sharing meteorological programming technology and information, with 3,000 fans
